@@ -7,6 +7,7 @@
 	<h3>Tech Stack</h3>
 	<p>Platforms & Languages</p>
 </div>
+<div>
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=mongoDB&logoColor=white" />
@@ -22,6 +23,7 @@
 <br>
 	<p>Tools</p>
 </div>
+<div>
 	<img src="https://img.shields.io/badge/IntelliJ%20IDE-2C2255?style=flat&logo=IntelliJ&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
@@ -33,6 +35,7 @@
 </div>
 <br>
 </div>
+<div>
 	<a href="https://www.youtube.com/channel/UC0kej9Irf_H1ULwYlNVqWZQ">
 		<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white" />
 	</a>
