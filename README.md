@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/Postman%FF6C37-2C2255?style=flat&logo=Postman&logoColor=white" />
     <img src="https://img.shields.io/badge/IntelliJ%20IDE-2C2255?style=flat&logo=IntelliJ&logoColor=white" />
     <img src="https://img.shields.io/badge/Sourcetree%0052CC-2C2255?style=flat&logo=Sourcetree&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=NaverCloud&logoColor=white" />
     <img src="https://img.shields.io/badge/S3-FF9900?style=flat&logo=AmazonS3&logoColor=white" />
