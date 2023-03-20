@@ -14,7 +14,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/websoket-010101?style=flat&logo=Websocket&logoColor=white" />
 	<img src="https://img.shields.io/badge/stomp-010101?style=flat&logo=Websocket&logoColor=white" />
-	<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JWT&logoColor=white" />
+	<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=flat&logo=JWT&logoColor=white" />
 	<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
