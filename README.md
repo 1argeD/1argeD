@@ -1,9 +1,6 @@
 
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1arged&layout=compact">
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=1arged&show_icons=true">
-<br>
 	<h3>Tech Stack</h3>
 	<p>Platforms & Languages</p>
 </div>
