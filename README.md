@@ -27,6 +27,7 @@
 </div>
 <div>
     <img src="https://img.shields.io/badge/IntelliJ%20IDE-2C2255?style=flat&logo=IntelliJ&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/Postman%FF6C37-2C2255?style=flat&logo=Postman&logoColor=white" />
