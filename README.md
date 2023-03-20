@@ -1,14 +1,12 @@
-<div align=center>
-	<br>
+
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1arged&layout=compact">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=1arged&show_icons=true">
 <br>
-<div align=center>
 	<h3>Tech Stack</h3>
 	<p>Platforms & Languages</p>
 </div>
-<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=mongoDB&logoColor=white" />
@@ -22,10 +20,8 @@
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
 <br>
-<div align=center>
 	<p>Tools</p>
 </div>
-<div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ%20IDE-2C2255?style=flat&logo=IntelliJ&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
@@ -36,9 +32,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<div align=center>
 </div>
-<div align=center>
 	<a href="https://www.youtube.com/channel/UC0kej9Irf_H1ULwYlNVqWZQ">
 		<img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=Youtube&logoColor=white" />
 	</a>
