@@ -8,6 +8,7 @@
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat&logo=NaverCloud&logoColor=white" />
+	<img src="https://img.shields.io/badge/H2 database-007396?style=flat&logo=H2 database&logoColor=white" />
 	<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=mongoDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/mySQL-4479A1?style=flat&logo=mySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
