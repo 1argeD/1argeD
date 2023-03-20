@@ -4,7 +4,7 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=1arged&show_icons=true">
 <br>
-![1arged's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=1arged)
+[1arged's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=1arged)
 <div align=center>
 	<h3>Tech Stack</h3>
 	<p>Platforms & Languages</p>
