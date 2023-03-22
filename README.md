@@ -1,3 +1,5 @@
+![1argeD's GitHub stats](https://github-readme-stats.vercel.app/api?username=1arged&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1arged&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 	<h3>Tech Stack</h3>
 	<p>Platforms & Languages</p>
