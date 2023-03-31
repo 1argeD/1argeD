@@ -50,6 +50,9 @@
 	<a href="mailto:1arged@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
+	<a href="https://velog.io/@1arged">
+		<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=velog&logoColor=white" />
+	</a>
 	<br>
 </div>
 
