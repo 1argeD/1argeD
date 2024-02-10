@@ -1,5 +1,5 @@
-[![1arged's GitHub stats](https://github-readme-stats.vercel.app/api?username=1arged&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=1arged&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![1arged's GitHub stats](https://github-readme-stats.vercel.app/api?username=1argeD&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=1argeD&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <div>
 	<h3>Tech Stack</h3>
 	<p>Platforms & Languages</p>
